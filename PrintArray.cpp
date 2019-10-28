@@ -4,18 +4,17 @@ using namespace std;
 int main()
 {
     int n;
-    cout<<"Enter Your Array Size => ";
+    cout<<"Enter Your Array Size :";
     cin>>n;
-    cout<<endl;
     int arr[n];
-    cout<<"Enter your Element of array \n";
+    cout<<"Enter your Element of array :\n";
   
     
     for(int i=0;i<n;i++)
     {
         cin>>arr[i];
     }
-  cout<<"Your Entered Array is => ";
+  cout<<"\nYour Entered Array is : ";
     for(int i=0;i<n;i++)
     {
         cout<<arr[i]<<" ";
