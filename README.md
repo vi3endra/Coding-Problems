@@ -1,3 +1,3 @@
 # Coding-Problems
 
-Problems in C++ language.
+Problems in C and C++ language.
